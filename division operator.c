@@ -1,4 +1,5 @@
 /*Arithmetic operators division */
+#include<stdio.h>
 int main ()
 {
  int x,y,division;
