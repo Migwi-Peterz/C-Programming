@@ -1,7 +1,4 @@
-#include <stdio.h>
-#include <math.h>
-#include <conio.h>
-
+#include <stdio.h
 #define PI 3.141
 
 int main(){
@@ -13,7 +10,5 @@ int main(){
     surfaceArea = 4*PI*radius*radius;
     printf("Total surface area of Sphere : %0.4f\n",
         surfaceArea);
-
-    getch();
     return 0;
 }
